@@ -251,8 +251,6 @@ const bigProjects = {
           url: "https://github.com/111faizan/student-analysis-system.git"
         }
       ]
-    
-    },
   display: true // Set false to hide this section, defaults to true
 };
 
