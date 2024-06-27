@@ -242,16 +242,6 @@ const bigProjects = {
         }
       ]
     },
-    {
-      projectName: "Student Analysis System",
-      projectDesc: "student , teachers , parents academic platform",
-      footerLink: [
-        {
-          name: "Visit github page",
-          url: "https://github.com/111faizan/student-analysis-system.git"
-        }
-      ]
-    },
 
   ],
       
