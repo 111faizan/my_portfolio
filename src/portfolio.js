@@ -243,12 +243,12 @@ const bigProjects = {
       ]
     },
     {
-      projectName: "Travel website",
-      projectDesc: "basic traveling website made for checking packages for travelling",
+      projectName: "Student Analysis System",
+      projectDesc: "student , teachers , parents academic platform",
       footerLink: [
         {
           name: "Visit github page",
-          url: "https://github.com/111faizan/travel_website.git"
+          url: "https://github.com/111faizan/student-analysis-system.git"
         }
       ]
     
