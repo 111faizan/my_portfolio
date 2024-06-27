@@ -242,8 +242,17 @@ const bigProjects = {
         }
       ]
     },
+    {
+      projectName: "Travel website",
+      projectDesc: "basic traveling website made for checking packages for travelling",
+      footerLink: [
+        {
+          name: "Visit github page",
+          url: "https://github.com/111faizan/travel_website.git"
+        }
+      ]
     
-  ],
+    },
   display: true // Set false to hide this section, defaults to true
 };
 
