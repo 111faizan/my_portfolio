@@ -253,7 +253,7 @@ const bigProjects = {
       ]
     },
 
-    ],
+  ],
       
   display: true // Set false to hide this section, defaults to true
 };
