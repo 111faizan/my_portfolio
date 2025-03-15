@@ -192,6 +192,10 @@ const bigProjects = {
       projectName: "Ecommerce front-end website",
       projectDesc: "A simple shopping website created using HTML, CSS, and JavaScript.",
       footerLink: [
+         {
+          name: "Visit webpage",
+          url: "https://ecommerce-page.pages.dev/"
+        },
         {
           name: "Visit github page",
           url: "https://github.com/111faizan/ecommerce_page.git"
