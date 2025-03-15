@@ -174,28 +174,19 @@ const workExperiences = {
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
 
-const openSource ={
-  
-  showGithubProfile: "false", // Set true or false to show Contact profile using Github, defaults to true
-  display: false // Set false to hide this section, defaults to true
-};
-// Define an array of project URLs
-
-
-// Some big projects you have worked on
-
 const bigProjects = {
   title: "Projects",
-  subtitle: "SOME Projects done by me for college work, and for personal learning purpose",
+  subtitle: "SOME Projects done by me for college work , and for personal learing purpose",
   projects: [
     {
       projectName: "Ecommerce front-end website",
-      projectDesc: "A simple shopping website created using HTML, CSS, JS",
+      projectDesc: "a simple shopping website created using html css js",
       footerLink: [
         {
           name: "visit github page",
           url: "https://github.com/111faizan/ecommerce_page.git"
         }
+        //  you can add extra buttons here.
       ]
     },
     {
@@ -207,40 +198,43 @@ const bigProjects = {
           url: "https://github.com/111faizan/banking_website.git"
         }
       ]
+      
     },
     {
-      projectName: "Hotel booking website",
-      projectDesc: "Hotel booking management website made using CSS, JavaScript, PHP, and for backend MySQL. XAMPP used as a local hosting platform.",
+      projectName: "hotel booking website",
+      projectDesc: "hotel booking management website made using css javascript php and for backend mysql xampp used as a local hosting platform",
       footerLink: [
         {
           name: "Visit github page",
           url: "https://github.com/111faizan/awp-project.git"
         }
       ]
+      
     },
     {
       projectName: "Travel website",
-      projectDesc: "Basic traveling website made for checking packages for traveling.",
+      projectDesc: "basic traveling website made for checking packages for travelling",
       footerLink: [
         {
           name: "Visit github page",
           url: "https://github.com/111faizan/travel_website.git"
         }
       ]
+      
     },
-
     {
-      projectName: "Simple dice game",
-      projectDesc: "Simple dice game made using HTML, CSS, and JavaScript",
+      projectName: "simple dice game",
+      projectDesc: "simple dice game made using html css and javascript",
       footerLink: [
         {
           name: "Visit github page",
           url: "https://github.com/111faizan/simple_dice_game.git"
         }
       ]
-    }
-  ]
-  // Set false to hide this section, defaults to true
+    },
+    
+  ],
+  display: true // Set false to hide this section, defaults to true
 };
 
 
