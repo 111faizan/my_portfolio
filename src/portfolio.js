@@ -234,7 +234,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit webpage",
-          url: "https://movies-search.pages.dev/"
+          url: "https://movies-search.pages.dev/",
         },
         {
           name: "Visit github page",
