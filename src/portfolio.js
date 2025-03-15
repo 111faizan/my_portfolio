@@ -228,20 +228,7 @@ const bigProjects = {
         }
       ]
     },
-    {
-      projectName: "Movie Search & Watchlist App",
-      projectDesc: 'A React.js app for searching movies via API with a "Watch Later" feature for saving favorites.',
-      footerLink: [
-        {
-          name: "Visit webpage",
-          url: "https://movies-search.pages.dev/",
-        },
-        {
-          name: "Visit github page",
-          url: "https://github.com/111faizan/Movies_Search"
-        }
-      ]
-    }, // <--- Missing comma here was causing the error
+
     {
       projectName: "Simple dice game",
       projectDesc: "Simple dice game made using HTML, CSS, and JavaScript",
