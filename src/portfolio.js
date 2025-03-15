@@ -174,6 +174,16 @@ const workExperiences = {
 /* Your Open Source Section to View Your Github Pinned Projects
 To know how to get github key look at readme.md */
 
+const openSource ={
+  
+  showGithubProfile: "false", // Set true or false to show Contact profile using Github, defaults to true
+  display: false // Set false to hide this section, defaults to true
+};
+// Define an array of project URLs
+
+
+// Some big projects you have worked on
+
 const bigProjects = {
   title: "Projects",
   subtitle: "SOME Projects done by me for college work , and for personal learing purpose",
@@ -237,6 +247,8 @@ const bigProjects = {
   display: true // Set false to hide this section, defaults to true
 };
 
+// Achievement Section
+// Include certificates, talks etc
 
 const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
@@ -386,6 +398,7 @@ export {
   educationInfo,
   techStack,
   workExperiences,
+  openSource,
   bigProjects,
   achievementSection,
   blogSection,
@@ -396,3 +409,4 @@ export {
   isHireable,
   resumeSection
 };
+
