@@ -232,21 +232,21 @@ const bigProjects = {
       ]
       
     },
+  {
+  projectName: "Movie Search & Watchlist App",
+  projectDesc: 'A React.js app for searching movies via API with a "Watch Later" feature for saving favorites.',
+  footerLink: [
     {
-      projectName: "Movie Search & Watchlist App",
-      projectDesc: "A React.js app for searching movies via API with a "Watch Later" feature for saving favorites.",
-      footerLink: [
-        {
-          name:"visit webpage",
-          url:"https://movies-search.pages.dev/"
-        },
-        {
-          name: "Visit github page",
-          url: "https://github.com/111faizan/Movies_Search"
-        }
-      ]
-      
+      name: "visit webpage",
+      url: "https://movies-search.pages.dev/"
     },
+    {
+      name: "Visit github page",
+      url: "https://github.com/111faizan/Movies_Search"
+    }
+  ]
+},
+
     {
       projectName: "simple dice game",
       projectDesc: "simple dice game made using html css and javascript",
