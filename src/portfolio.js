@@ -239,6 +239,10 @@ const bigProjects = {
         {
           name: "Visit github page",
           url: "https://github.com/111faizan/simple_dice_game.git"
+        },
+        {
+          name:"Visit Webpage",
+          url:"https://simple-dice-game.pages.dev/"
         }
       ]
     },
