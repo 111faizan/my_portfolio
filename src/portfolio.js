@@ -243,6 +243,20 @@ const bigProjects = {
       ]
     },
     {
+      projectName: "React Video Streaming website",
+      projectDesc: "This project is a YouTube clone, built using React.js, that allows users to search for and stream videos using the YouTube API.",
+      footerLink: [
+        {
+          name: "Visit webpage",
+          url: "https://react-video-streaming-app.pages.dev/"
+        },
+         {
+          name: "Visit github page",
+          url: "https://github.com/111faizan/React-Video-Streaming-App"
+        }
+      ]
+    },
+    {
       projectName: "Movie Search & Watchlist App",
       projectDesc: 'A React.js app for searching movies via API with a "Watch Later" feature for saving favorites.',
       footerLink: [
