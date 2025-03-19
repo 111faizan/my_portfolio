@@ -218,7 +218,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit github page",
-          url: "https://github.com/111faizan/awp-project.git"
+          url: "https://github.com/111faizan/Hotel-Management-System"
         }
       ]
     },
