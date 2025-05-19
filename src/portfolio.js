@@ -194,7 +194,7 @@ const bigProjects = {
       footerLink: [
          {
           name: "Visit webpage",
-          url: "quickdarshan.vercel.app"
+          url: "https://quickdarshan.vercel.app/"
         },
         {
           name: "Visit github page",
