@@ -189,6 +189,20 @@ const bigProjects = {
   subtitle: "SOME Projects done by me for college work , and for personal learning purpose",
   projects: [
     {
+      projectName: "Quick Darshan Live streaming platform",
+      projectDesc: "Quick Darshan is a live video streaming platform built with React and Node.js for real-time broadcasts.",
+      footerLink: [
+         {
+          name: "Visit webpage",
+          url: "quickdarshan.vercel.app"
+        },
+        {
+          name: "Visit github page",
+          url: "https://github.com/111faizan/quickdarshan"
+        }
+      ]
+    },
+    {
       projectName: "Ecommerce front-end website",
       projectDesc: "A simple shopping website created using HTML, CSS, and JavaScript.",
       footerLink: [
