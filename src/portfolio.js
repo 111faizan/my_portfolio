@@ -112,7 +112,7 @@ const educationInfo = {
       logo: require("./assets/images/stanfordLogo.png"),
       subHeader: "Bachelor of Engineering in Information Technology",
       desc: "Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["passing year 2025"]
+      descBullets: ["2021-2025"]
     }
   ]
 };
